@@ -1,3 +1,3 @@
 # Hand Distance Game
 
-Hand Distance Measurement with Normal Webcam with game
+Hand Distance Measurement with Normal Webcam with game included 
