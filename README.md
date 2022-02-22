@@ -2,7 +2,7 @@
 
 This project uses the distance between a single camera and a hand. Knowledge about basic mathematics is needed to create this application. Simple game is created using the measured distance.
 
- \*\* TODO Add image/GIF \*\*
+https://user-images.githubusercontent.com/37661642/155226788-5383c7f2-999b-4022-87fa-a67a17d9a9a1.mp4
 
 ## Getting Started
 
